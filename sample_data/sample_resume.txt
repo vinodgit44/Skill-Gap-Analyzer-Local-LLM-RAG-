@@ -1,0 +1,71 @@
+
+
+
+Name: Arjun Mehta
+Location: Austin, TX
+Phone: (512) 778-9034
+Email: [arjun.mehta.dev@gmail.com](mailto:arjun.mehta.dev@gmail.com)
+LinkedIn: linkedin.com/in/arjunmehta
+GitHub: github.com/arjun-codes
+
+
+
+ SUMMARY
+
+Full-stack software developer with 4+ years of experience building scalable web applications using JavaScript, TypeScript, React, Node.js, and cloud-native architecture. Strong background in API development, microservices, and CI/CD automation. Passionate about clean code, performance optimization, and collaborative team environments.
+
+
+
+ TECHNICAL SKILLS
+
+Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS
+Frameworks: React, Node.js, Express.js, Next.js
+Cloud & DevOps: AWS (Lambda, S3, EC2), Docker, GitHub Actions, Terraform (basic)
+Databases: PostgreSQL, MongoDB, DynamoDB
+Tools: Git, Jira, Jest, Postman, Redis
+
+
+
+ PROFESSIONAL EXPERIENCE
+
+ Software Developer | NexusSoft Solutions | Austin, TX
+
+Jun 2021 – Present
+
+ Designed and developed RESTful APIs in Node.js serving ~20k daily users.
+ Built dynamic front-end modules in React/TypeScript with reusable component architecture.
+ Migrated core services to AWS Lambda, reducing operational cost by 35%.
+ Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 45%.
+ Improved application load times by 28% through code-splitting and caching strategies.
+ Collaborated with QA to integrate automated testing (Jest + React Testing Library).
+
+ Junior Full-Stack Developer | BlueWave Tech | Remote
+
+Jul 2019 – May 2021
+
+ Contributed to React and Express.js development for a SaaS analytics dashboard.
+ Wrote SQL queries and optimized slow PostgreSQL queries, boosting performance by 20%.
+ Refactored UI components and improved accessibility compliance (WCAG AA).
+ Built unit tests and improved code coverage from 55% to 80%.
+
+
+
+ PROJECTS
+
+ TaskFlow – Productivity Web App
+
+ Built using React, Node.js, and MongoDB.
+ Integrated JWT authentication and role-based access.
+
+ Cloud Notifier – Serverless Notification System
+
+ Built with AWS Lambda, SNS, and DynamoDB.
+ Processes ~50k notifications per day.
+
+
+
+ EDUCATION
+
+B.S. in Computer Science – University of Texas at Austin (2019)
+
+

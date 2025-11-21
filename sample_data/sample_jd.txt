@@ -1,0 +1,41 @@
+Job Title: Machine Learning Engineer – NLP & LLM Applications
+Location: Remote / UAE / India
+
+Company Overview:
+We are building next generation AI solutions using LLMs, Retrieval-Augmented Generation (RAG),
+semantic search, and enterprise knowledge automation. We are looking for a Machine Learning Engineer
+who can design, fine-tune, and deploy models for real-world production workflows.
+
+Key Responsibilities:
+• Build and deploy NLP pipelines using Transformers, Hugging Face, and LangChain
+• Implement RAG systems using vector databases such as Pinecone, FAISS, or Chroma
+• Fine-tune LLMs using LoRA/QLoRA and parameter-efficient methods
+• Build scalable APIs using FastAPI or Flask
+• Work with unstructured documents: PDFs, OCR, and embeddings
+• Deploy models on cloud platforms (AWS preferred)
+• Optimize inference using ONNX Runtime, quantization, and GPU acceleration
+• Collaborate with software and product teams to turn models into customer-facing applications
+
+Technical Skills Required:
+• Strong Python programming skills
+• Experience with Hugging Face Transformers
+• Experience with LangChain or LlamaIndex
+• Knowledge of vector databases (FAISS, Chroma, Pinecone)
+• Understanding of tokenization, embeddings, and semantic search
+• Hands-on experience with deep learning (TensorFlow or PyTorch)
+• Experience building REST APIs
+• Good understanding of Linux, Docker, and cloud environments
+
+Good to Have:
+• Experience with multi-modal LLMs
+• MLOps tools (MLflow, DVC, CI/CD)
+• Knowledge of retrieval optimization and prompt engineering
+
+Soft Skills:
+• Strong communication
+• Ability to work independently
+• Problem solving mindset
+
+Experience:
+Minimum 2+ years in NLP or applied ML roles
+
