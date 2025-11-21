@@ -4,9 +4,7 @@
 
 # 📄 **README.md — JD–Resume Skill Gap Analyzer (Local LLM + RAG)**
 
-<p align="center">
-  <img src="assets/banner.png" alt="JD–Resume Analyzer Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" />
@@ -17,7 +15,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
----
+
 
 # 🚀 **JD–Resume Skill Gap Analyzer (Local LLM + RAG)**
 
@@ -33,7 +31,7 @@ A privacy-preserving **AI career analysis tool** that compares your **resume** w
 > 🔒 100% private — no external API calls required
 > 🧠 Optional Cloud LLM support (OpenAI, Gemini, Groq, DeepSeek)
 
----
+
 
 # 🧠 **Features**
 
@@ -64,7 +62,7 @@ A privacy-preserving **AI career analysis tool** that compares your **resume** w
 
 * Everything runs locally → safe for resumes and sensitive data.
 
----
+
 
 # 🏗️ **Tech Stack**
 
@@ -79,7 +77,7 @@ A privacy-preserving **AI career analysis tool** that compares your **resume** w
 | Hardware              | CPU / GPU Auto-detect          |
 | Cloud                 | Kaggle Free GPU                |
 
----
+
 
 # 📁 **Project Structure**
 
@@ -100,7 +98,6 @@ job-analyzer-basic/
 └── README.md
 ```
 
----
 
 # ⚙️ **Installation**
 
@@ -124,7 +121,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
+
 
 # 🏃 **How to Run**
 
@@ -134,7 +131,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
 
 ## 🌐 Run Streamlit Web UI
 
@@ -148,7 +144,7 @@ Then open:
 
 Upload **resume.txt** and **jd.txt** → click **Run Analysis**.
 
----
+
 
 # ⚡ **Execution Modes (CPU, GPU, Kaggle, API)**
 
@@ -174,7 +170,6 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 * GPT-2 / DistilGPT-2
 * MiniLM embeddings
 
----
 
 ## 🟦 2. Local GPU Mode (Future GPUs — RTX cards)
 
@@ -192,7 +187,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 * Gemma 2B
 * Llama 3B / 8B
 
----
+
 
 ## 🟪 3. Kaggle Free GPU Mode
 
@@ -210,7 +205,7 @@ Use free **Tesla T4 GPU (16GB)**.
 * Gemma 2B
 * Llama 3B–8B
 
----
+
 
 ## 🔑 4. Cloud API Mode (OpenAI, Gemini, Groq, DeepSeek)
 
@@ -235,7 +230,7 @@ Use free **Tesla T4 GPU (16GB)**.
 * Groq Llama-3-8B
 * DeepSeek Chat
 
----
+
 
 # ⚔️ **API Key vs No API Key — Side-by-Side Comparison**
 
@@ -250,7 +245,7 @@ Use free **Tesla T4 GPU (16GB)**.
 | Model Size     | ≤1.5B              | ≤100B+             |
 | Setup          | Medium             | Easy               |
 
----
+
 
 # 🏗️ **Architecture**
 
@@ -303,7 +298,7 @@ Use free **Tesla T4 GPU (16GB)**.
                      └──────────────────────────┘
 ```
 
----
+
 
 ## Mermaid Diagram (GitHub Supported)
 
@@ -317,7 +312,7 @@ flowchart TD
     F --> G[Results<br>Skills • Gaps • Roadmap • Score]
 ```
 
----
+
 
 # 🧪 **Sample Output**
 
@@ -340,7 +335,7 @@ Partial → ML Ops
 🧮 Job Fit Score: 78/100
 ```
 
----
+
 
 # 🔧 **Troubleshooting**
 
@@ -356,7 +351,7 @@ Use Kaggle free GPU (T4).
 
 Use API Key mode.
 
----
+
 
 # 🛠️ **Future Enhancements**
 
@@ -367,22 +362,20 @@ Use API Key mode.
 * Dashboard with charts
 * Docker container
 
----
+
 
 # ❤️ **Contributing**
 
 PRs are welcome.
 Improve prompts, models, or add more career analytics.
 
----
+
 
 # 📜 **License**
 
 MIT License © 2025
 
----
 
 
-#   S k i l l - G a p - A n a l y z e r - L o c a l - L L M - R A G - 
- 
+
  
